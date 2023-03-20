@@ -8,6 +8,7 @@ We focus mostly on learning ODEs from biological data, but same approaches usual
 
 ### Sparse and SINDy-like methods
 
+- [Distilling identifiable and interpretable dynamic models from biological data, 2023](https://www.biorxiv.org/content/10.1101/2023.03.13.532340v2.abstract)
 - [Automatic differentiation to simultaneously identify
 nonlinear dynamics and extract noise probability
 distributions from data, 2022](https://iopscience.iop.org/article/10.1088/2632-2153/ac567a)
