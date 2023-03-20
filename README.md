@@ -13,11 +13,17 @@ nonlinear dynamics and extract noise probability
 distributions from data, 2022](https://iopscience.iop.org/article/10.1088/2632-2153/ac567a)
 - [Ensemble-SINDy: Robust sparse model discovery in the low-data, high-noise limit, with active learning and control, 2022](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2021.0904)
 - [Identification of dynamic mass-action biochemical reaction networks using sparse Bayesian methods, 2022](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009830)
+- [Gaussian processes meet NeuralODEs: A Bayesian framework for learning the dynamics of partially observed systems from scarce and noisy data, 2022](https://arxiv.org/pdf/2103.03385.pdf)
 - [Inferring Biological Networks by Sparse Identification of Nonlinear Dynamics, 2016](https://ieeexplore.ieee.org/document/7809160)
 - [Discovering governing equations from data by sparse identification of nonlinear dynamical systems, 2016](https://www.pnas.org/doi/10.1073/pnas.1517384113)
-- [Gaussian processes meet NeuralODEs: A Bayesian framework for learning the dynamics of partially observed systems from scarce and noisy data, 2022](https://arxiv.org/pdf/2103.03385.pdf)
 
 ### Symbolic regression
 
 - [D-CODE: Discovering Closed-form ODEs from Observed Trajectories, 2022](https://openreview.net/pdf?id=wENMvIsxNN)
 - [AI Feynman: A physics-inspired method for symbolic regression, 2020](https://www.science.org/doi/10.1126/sciadv.aay2631)
+
+### Others
+
+- [Differentiable Programming of Chemical Reaction Networks, 2023](https://arxiv.org/abs/2302.02714)
+- [Reactmine: a statistical search algorithm for inferring chemical reactions from time series data, 2022](https://arxiv.org/abs/2209.03185)
+- [On Chemical Reaction Network Design by a Nested Evolution Algorithm, 2019](https://hal.science/hal-02173682)
