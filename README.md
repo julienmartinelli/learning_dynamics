@@ -16,6 +16,7 @@ distributions from data, 2022](https://iopscience.iop.org/article/10.1088/2632-2
 - [Identification of dynamic mass-action biochemical reaction networks using sparse Bayesian methods, 2022](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009830)
 - [Gaussian processes meet NeuralODEs: A Bayesian framework for learning the dynamics of partially observed systems from scarce and noisy data, 2022](https://arxiv.org/pdf/2103.03385.pdf)
 - [SINDy-PI: a robust algorithm for parallel implicit sparse identification of nonlinear dynamics, 2020](https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0279)
+- [Reactive SINDy: Discovering governing reactions from concentration data, 2019](https://aip.scitation.org/doi/10.1063/1.5066099)
 - [Inferring Biological Networks by Sparse Identification of Nonlinear Dynamics, 2016](https://ieeexplore.ieee.org/document/7809160)
 - [Discovering governing equations from data by sparse identification of nonlinear dynamical systems, 2016](https://www.pnas.org/doi/10.1073/pnas.1517384113)
 
