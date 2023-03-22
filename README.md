@@ -27,6 +27,7 @@ distributions from data, 2022](https://iopscience.iop.org/article/10.1088/2632-2
 
 ### Others
 
+- [Probabilistic grammars for modeling dynamical systems from coarse, noisy, and partial data, 2023](https://www.researchgate.net/publication/369213363_Probabilistic_grammars_for_modeling_dynamical_systems_from_coarse_noisy_and_partial_data)
 - [Differentiable Programming of Chemical Reaction Networks, 2023](https://arxiv.org/abs/2302.02714)
 - [Reactmine: a statistical search algorithm for inferring chemical reactions from time series data, 2022](https://arxiv.org/abs/2209.03185)
 - [On Chemical Reaction Network Design by a Nested Evolution Algorithm, 2019](https://hal.science/hal-02173682)
